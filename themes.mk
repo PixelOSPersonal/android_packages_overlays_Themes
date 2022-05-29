@@ -37,6 +37,7 @@ PRODUCT_PACKAGES += \
     Rubik-MediumItalic.ttf \
     Rubik-Medium.ttf \
     Rubik-Regular.ttf \
+    SanFranciscoDisplayPro.ttf \
     ZillaSlab-MediumItalic.ttf \
     ZillaSlab-Medium.ttf \
     ZillaSlab-SemiBoldItalic.ttf \
@@ -97,6 +98,7 @@ PRODUCT_PACKAGES += \
     FontRubikRubikOverlay \
     FontSamOverlay \
     FontSamsungOneSourceOverlay \
+    FontSanFranciscoDisplayProSourceOverlay \
     FontSimpleDaySourceOverlay \
     FontSonySketchSourceOverlay \
     FontStoropiaSourceOverlay \
