@@ -335,3 +335,13 @@ PRODUCT_PACKAGES += \
     QSReflected \
     QSSurround \
     QSThin
+
+# Volume Styles
+PRODUCT_PACKAGES += \
+    VolumeDoubleLayer \
+    VolumeGradient \
+    VolumeNeumorph \
+    VolumeNeumorphOutline \
+    VolumeOutline \
+    VolumeShadedLayer \
+    VolumeAOSPRevamped
