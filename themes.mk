@@ -320,3 +320,7 @@ PRODUCT_PACKAGES += \
     IconDataOne \
     IconDataThree \
     IconDataTwo
+    
+# Themes
+PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay
