@@ -202,7 +202,8 @@ PRODUCT_PACKAGES += \
     NavbarOneUiOverlay \
     NavbarSammyOverlay \
     NavbarTecnoCamonOverlay \
-    NavbarDoraOverlay
+    NavbarDoraOverlay \
+    NavigationBarNoHintOverlay
 
 # Statusbar Icons
 PRODUCT_PACKAGES += \
